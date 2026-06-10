@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi there, I'm Abhivansh Parashar 👋
 
-<!--
-**Abhivansh-Parashar/Abhivansh-Parashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student at Chitkara University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about solving complex problems and building scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* ☕ Primarily coding in Java
+* 🌱 Currently learning Spring Boot and Backend Development
+* 📊 Solved 400+ LeetCode problems, including 40+ Hard problems
+* 🔥 Consistently improving Data Structures & Algorithms skills
+* 🎯 Preparing for Software Development Engineer (SDE) roles
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* SQL
+
+### Backend
+
+* Spring Boot
+* REST APIs
+* Spring Security
+* JWT Authentication
+
+### Database
+* MySQL
+* PostgreSql
+* MongoDB
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Maven
+* Postman
+
+## 📌 Featured Projects
+
+### FinFlow – Personal Finance Tracker
+
+A full-stack finance management application built using Spring Boot and MySQL.
+
+**Features**
+
+* Income & Expense Tracking
+* Category Management
+* Budget Tracking
+* JWT Authentication
+* Secure REST APIs
+
+### Enterprise Sync
+
+Backend-focused project exploring scalable application architecture and API development.
+
+## 📈 Coding Journey
+
+* 400+ LeetCode Problems Solved
+* 270+ Medium Problems Solved
+* 40+ Hard Problems Solved
+* 160+ Day LeetCode Streak
+* Strong focus on Graphs, Trees and Dynamic Programming
+
+## 🎯 Current Goals
+
+* Master Spring Boot and Backend Development
+* Build production-ready full-stack applications
+* Strengthen DSA and problem-solving skills
+* Prepare for Software Engineering internships and placements
+
+## 🌐 Connect With Me
+
+* LeetCode: https://leetcode.com/u/Abhivansh_Parashar/
+* GitHub: https://github.com/Abhivansh-Parashar
+
+---
+
+*"Consistency compounds. One problem, one feature, and one improvement at a time."*
