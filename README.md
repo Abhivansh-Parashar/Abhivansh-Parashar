@@ -2,15 +2,13 @@
 
 🎓 Computer Science Engineering student at Chitkara University
 
-💻 Aspiring Software Engineer passionate about solving complex problems and building scalable applications.
+💻 Java Developer focused on Backend Development, Spring Boot, and Data Structures & Algorithms.
 
 ## 🚀 About Me
 
-* ☕ Primarily coding in Java
-* 🌱 Currently learning Spring Boot and Backend Development
-* 📊 Solved 400+ LeetCode problems, including 40+ Hard problems
-* 🔥 Consistently improving Data Structures & Algorithms skills
-* 🎯 Preparing for Software Development Engineer (SDE) roles
+☕ Java Developer
+🚀 Building Backend Applications with Spring Boot
+📊 400+ LeetCode Problems Solved | 40+ Hard
 
 ## 🛠️ Tech Stack
 
