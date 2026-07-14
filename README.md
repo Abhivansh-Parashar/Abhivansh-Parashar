@@ -4,13 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;400%2B+DSA+Problems+Solved;Learning+Testing+%26+Deployment;Always+Learning+Something+New"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abhivansh-Parashar&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/badge/Java-Backend%20Developer-2563EB?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
 
-<img src="https://img.shields.io/badge/Focus-Java%20Backend-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
 </div>
 
@@ -18,13 +18,13 @@
 
 # 👋 About Me
 
-I'm a **Java Backend Developer** passionate about building scalable and efficient backend applications using **Spring Boot**.
+I'm **Abhivansh Parashar**, a Java Backend Developer passionate about designing scalable backend systems and solving challenging problems.
 
-- 🔹 Building REST APIs and backend systems with **Java & Spring Boot**
-- 📚 Currently learning **JUnit 5, Mockito, Spring Boot Testing, Docker and AWS**
-- 💡 Solved **400+ DSA problems** on LeetCode and continuously improving problem-solving skills
-- 🛠️ Interested in writing clean, maintainable and production-ready code
-- 🚀 Always exploring modern backend technologies and best practices
+- 🚀 Building backend applications with **Java & Spring Boot**
+- 🧪 Currently learning **JUnit 5, Mockito, Docker, AWS and Backend Deployment**
+- 💡 Solved **400+ DSA Problems** on **LeetCode**
+- ⚡ Passionate about writing clean, maintainable and production-ready code
+- 🌱 Always learning new technologies and improving my backend development skills
 
 ---
 
@@ -32,21 +32,7 @@ I'm a **Java Backend Developer** passionate about building scalable and efficien
 
 <div align="center">
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,docker,aws,git,github,postman,react,html,css,js"/>
 
 </div>
 
