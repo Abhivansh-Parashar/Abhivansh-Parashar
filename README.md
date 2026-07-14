@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:2563EB,100:3B82F6&text=Abhivansh%20Parashar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20Enthusiast&descAlignY=55&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;400%2B+DSA+Problems+Solved;Currently+Learning+Testing+%26+Deployment;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;400%2B+DSA+Problems+Solved;Learning+Testing+%26+Deployment;Always+Learning+Something+New"/>
 
 <br>
 
@@ -16,35 +16,15 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-```json
-{
-  "name": "Abhivansh Parashar",
-  "role": "Java Backend Developer",
+I'm a **Java Backend Developer** passionate about building scalable and efficient backend applications using **Spring Boot**.
 
-  "currentlyLearning": [
-    "Spring Boot Testing",
-    "JUnit 5",
-    "Mockito",
-    "Docker",
-    "AWS",
-    "Backend Deployment"
-  ],
-
-  "techStack": [
-    "Java",
-    "Spring Boot",
-    "PostgreSQL",
-    "MySQL",
-    "MongoDB"
-  ],
-
-  "achievements": {
-    "leetcode": "400+ DSA Problems Solved"
-  }
-}
-```
+- 🔹 Building REST APIs and backend systems with **Java & Spring Boot**
+- 📚 Currently learning **JUnit 5, Mockito, Spring Boot Testing, Docker and AWS**
+- 💡 Solved **400+ DSA problems** on LeetCode and continuously improving problem-solving skills
+- 🛠️ Interested in writing clean, maintainable and production-ready code
+- 🚀 Always exploring modern backend technologies and best practices
 
 ---
 
@@ -52,9 +32,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,docker,aws,git,github,postman"/>
+### Backend
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman"/>
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,html,css,js"/>
 
@@ -64,6 +54,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:3B82F6,100:0D1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:3B82F6,100:0D1117"/>
 
 </div>
