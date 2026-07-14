@@ -1,24 +1,58 @@
-# Hi there, I'm Abhivansh Parashar 👋
+<div align="center">
 
-🎓 Computer Science Engineering student at Chitkara University
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Abhivansh+Parashar;Java+Backend+Developer;Spring+Boot+Enthusiast;Always+Learning+%26+Building" />
 
-💻 Java Developer focused on Backend Development, Spring Boot, and Data Structures & Algorithms.
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
-## 🚀 About Me
+</div>
 
-☕ Java Developer
-🚀 Building Backend Applications with Spring Boot
-📊 400+ LeetCode Problems Solved | 40+ Hard
+---
+
+## 👨‍💻 About Me
+
+- ☕ Java Backend Developer
+- 🌱 Building scalable backend applications with **Spring Boot**
+- 🧪 Currently learning **JUnit 5, Mockito & Spring Boot Testing**
+- 🚀 Exploring **Docker, AWS & Backend Deployment**
+- 💡 Solved **400+ LeetCode** problems and actively practicing **Data Structures & Algorithms**
+
+---
 
 ## 🛠️ Tech Stack
 
-**Java • Spring Boot • MySQL • PostgreSQL • Git • GitHub**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,git,github,postman,docker,aws" />
+</p>
 
-## 📊 Progress & Focus
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
 
-| Progress                | Focus               |
-| ----------------------- | ------------------- |
-| 400+ LeetCode Problems  | FinFlow Project     |
-| 40+ Hard Problems       | Spring Boot         |
-| 270+ Medium Problems    | Backend Development |
-| 160+ Day Streak         | SDE Placements      |
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
