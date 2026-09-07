@@ -23,56 +23,10 @@ I'm currently focused on becoming a strong **Java Backend Developer** by buildin
 * ☕ Learning and building with **Java & Spring Boot**
 * 🗄️ Working with **PostgreSQL, MySQL & MongoDB**
 * ⚡ Exploring **Redis & caching**
-* 🧪 Practicing **JUnit 5 & Mockito**
 * 🐳 Learning **Docker & AWS**
 * 🧠 Studying **HLD & System Design**
 * 💻 **450+ LeetCode problems solved**
 * 🎯 Looking for **backend internships / fresher opportunities**
-
----
-
-## ⚡ Currently Learning
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="170">
-
-### ☕ Backend
-
-Java
-Spring Boot
-REST APIs
-JPA / Hibernate
-
-</td>
-
-<td align="center" width="170">
-
-### 🧠 Engineering
-
-System Design
-Caching
-Redis
-Database Design
-
-</td>
-
-<td align="center" width="170">
-
-### ☁️ DevOps
-
-Docker
-AWS
-Git
-CI/CD
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
