@@ -10,6 +10,5 @@
 
 <img src="https://leetcard.jacoblin.cool/Abhivansh_Parashar?theme=dark&font=Fira%20Code&ext=heatmap" width="85%" alt="LeetCode stats" />
 
-<img src="https://raw.githubusercontent.com/Abhivansh-Parashar/Abhivansh-Parashar/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
 
 </div>
