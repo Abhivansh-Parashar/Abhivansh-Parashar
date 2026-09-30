@@ -19,7 +19,7 @@
 
 <clipPath id="c10"><rect x="24" y="163" height="22" width="0"><animate attributeName="width" from="0" to="201.6" begin="0.768s" dur="0.25s" fill="freeze"/></rect></clipPath><text x="26" y="179" font-size="14" textLength="201.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c10)"><tspan fill="#f1fa8c">Access granted. Welcome.</tspan></text>
 
-<clipPath id="c12"><rect x="24" y="199.8" height="22" width="0"><animate attributeName="width" from="0" to="235.2" begin="1.153s" dur="0.25s" fill="freeze"/></rect></clipPath><text x="26" y="215.8" font-size="14" textLength="235.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c12)"><tspan fill="#00ff9f">abhivansh@github</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#f8f8f2">$ </tspan><tspan fill="#f8f8f2">neofetch</tspan></text>
+<clipPath id="c12"><rect x="24" y="199.8" height="22" width="0"><animate attributeName="width" from="0" to="235.2" begin="1.153s" dur="0.25s" fill="freeze"/></rect></clipPath><text x="26" y="215.8" font-size="14" textLength="235.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c12)"><tspan fill="#00ff9f">abhivansh@github</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#f8f8f2">$ </tspan><tspan fill="#f8f8f2"></tspan></text>
 
 <clipPath id="c14"><rect x="24" y="222.8" height="22" width="0"><animate attributeName="width" from="0" to="155.2" begin="1.498s" dur="0.25s" fill="freeze"/></rect></clipPath><text x="26" y="238.8" font-size="14" textLength="151.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c14)"><tspan fill="#00ff9f">  abhivansh</tspan><tspan fill="#f8f8f2">@</tspan><tspan fill="#00ff9f">github</tspan></text>
 
