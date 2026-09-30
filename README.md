@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg?v=2" width="100%" alt="Abhivansh Parashar" />
+<img src="./assets/banner.svg?v=3" width="100%" alt="Abhivansh Parashar" />
 
 <img src="./assets/terminal.svg?v=2" width="100%" alt="terminal" />
 
@@ -8,6 +8,6 @@
 
 <br/>
 
-<img src="https://leetcard.jacoblin.cool/Abhivansh_Parashar?theme=dark&font=Fira%20Code&ext=heatmap" width="85%" alt="LeetCode stats" />
+<img src="./assets/leetcode.svg?v=2" width="100%" alt="LeetCode stats" />
 
 </div>
